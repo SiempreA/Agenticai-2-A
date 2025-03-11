@@ -1,0 +1,8 @@
+.custom-grey-list li::marker {
+  color: #7d7d7c;
+  font-size: 0.75em;
+}
+
+.custom-list li::marker {
+  font-size: 0.75em;
+}
